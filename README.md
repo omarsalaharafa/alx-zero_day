@@ -1,1 +1,2 @@
-another readme for 0x03-git
+My Name is omar 
+I'm an ALX student 
